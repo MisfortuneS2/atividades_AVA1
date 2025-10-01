@@ -18,7 +18,7 @@ function principal(){
 
     let resultado = verificar_idade(idade)
 
-    console.log('${resultado}')
+    //console.log('${resultado}')
 
     resposta.innerHTML = ``
     resposta.innerHTML += `${nome}, ${resultado}.`
