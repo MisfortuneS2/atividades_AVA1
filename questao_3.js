@@ -40,6 +40,6 @@ function principal(){
     if (valor < 0 || valor > 10){
                 resposta.innerHTML = 'Valor fora da faixa de cálculo permitida'
             }else{
-            resposta.innerHTML = 'O valor de x será: ' ${valor}
+            resposta.innerHTML = 'O valor de x será: ' ${valor}  
         }
 }
